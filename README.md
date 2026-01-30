@@ -29,8 +29,8 @@ The system is designed to **prevent hallucinated facts** (e.g., invented locatio
 ## 🏗️ Pipeline Architecture
 
 **PDF** → Text Extraction → Chunking → Embeddings → FAISS Index  
-
 **User Question** → Top-k Relevant Chunks → Grounded LLM Prompt → **Final Answer**
+
 ---
 
 ## 🛠️ Tech Stack
