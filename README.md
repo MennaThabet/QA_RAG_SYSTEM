@@ -1,6 +1,6 @@
 # Grounded RAG PDF Question Answering
 
-A lightweight Retrieval-Augmented Generation (RAG) system for answering questions from PDF documents while minimizing hallucinations and allowing supported logical inference.
+Retrieval-Augmented Generation (RAG) system for answering questions from PDF documents while minimizing hallucinations and allowing supported logical inference.
 
 ## 🚀 Overview
 
